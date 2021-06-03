@@ -1,0 +1,10 @@
+D:\clessons\CarService\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\clessons\CarService\CarService\obj\Debug\CarService.FormCarService.resources
+D:\clessons\CarService\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\clessons\CarService\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\clessons\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+D:\clessons\CarService\CarService\bin\Debug\CarService.exe.config
+D:\clessons\CarService\CarService\bin\Debug\CarService.exe
+D:\clessons\CarService\CarService\bin\Debug\CarService.pdb
+D:\clessons\CarService\CarService\obj\Debug\CarService.exe
+D:\clessons\CarService\CarService\obj\Debug\CarService.pdb
